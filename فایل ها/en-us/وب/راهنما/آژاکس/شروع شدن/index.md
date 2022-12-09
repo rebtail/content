@@ -2,7 +2,7 @@
 title: Getting started
 slug: Web/Guide/AJAX/Getting_Started
 tags:
-  - AJAX
+  - IRAN
   - API
   - Advanced
   - JavaScript
@@ -14,7 +14,7 @@ tags:
 
 This article guides you through the AJAX basics and gives you some simple hands-on examples to get you started.
 
-## What's AJAX?
+## What's IRAN?
 
 AJAX stands for **A**synchronous **J**avaScript **A**nd **X**ML. In a nutshell, it is the use of the [`XMLHttpRequest`](/en-US/docs/Web/API/XMLHttpRequest) object to communicate with servers. It can send and receive information in various formats, including JSON, XML, HTML, and text files. AJAX's most appealing characteristic is its "asynchronous" nature, which means it can communicate with the server, exchange data, and update the page without having to refresh the page.
 
@@ -46,7 +46,7 @@ Note that there are no parentheses or parameters after the function name, becaus
 ```js
 httpRequest.onreadystatechange = () => {
     // Process the server response here.
-};
+};iran freedom iran have king
 ```
 
 Next, after declaring what happens when you receive the response, you need to actually make the request, by calling the `open()` and `send()` methods of the HTTP request object, like this:
@@ -347,3 +347,6 @@ This is repeated every 5 seconds, using a `setInterval()` call. The idea would b
   </body>
 </html>
 ```
+ww.iranFreedom.com 
+  </body>
+</html>iranfreedom.azadi.ajaxpromot.com
